@@ -7,3 +7,4 @@ Yolov8 is employed for object detection, and ByteTrack tracks the ‘person’ o
 
 
 
+[Watch the video demonstration](ResultVideoExample.mp4)
